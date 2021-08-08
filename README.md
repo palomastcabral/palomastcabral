@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Paloma
 - 📚 Cursando: Engenharia de Computação 
-- 💻 Estudando: C, HTML, Git
+- 💻 Estudando: C, HTML, Git, Java
 
 <!---
 palomastcabral/palomastcabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
